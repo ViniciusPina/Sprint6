@@ -54,3 +54,7 @@ Considerações Finais:
 
 Este projeto combina a praticidade do monitoramento ambiental com a capacidade de enviar dados em tempo real para a plataforma Tago.io. 
 Com aplicabilidade em agricultura, jardinagem ou automação residencial, o protótipo proporciona um sistema eficiente e versátil. A integração do WiFi e o uso do Tago.io ampliam as possibilidades de monitoramento remoto, tornando-o uma solução completa para diversas necessidades ambientais específicas.
+
+link do video: https://youtu.be/TCPATeDqzDU
+link do wokwi:https://wokwi.com/projects/305569599398609473
+
