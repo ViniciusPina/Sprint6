@@ -7,6 +7,8 @@ RM550986 - Vinicius Monteiro Pina
 
 RM550702 - Enzo Vasconcelos de Oliveira Santos
 
+link do video: https://youtu.be/TCPATeDqzDU
+link do wokwi:https://wokwi.com/projects/305569599398609473
 
 Projeto de Arduino - Monitoramento Ambiental com Tago.io
 
